@@ -46,7 +46,7 @@
 <h2>:convenience_store: 5. 분석 내용</h2>
 
 #### 1.1 생애이력 데이터 결합
-<img src = "photo/3. 생애이력 데이터 결합.JPG" width = "1200" height = "300"></p>
+<img src = "photo/3. 생애이력 데이터 결합.JPG" width = "1200" height = "350"></p>
 
 - 용도별, 기역구별 엑셀 데이터를 결합하여 120009건의 데이터셋 구축
 
@@ -58,7 +58,7 @@
 
 #### 1.3 거리 계산, 평균 생활인구, 평균 매출액(y) 추출
 
-<img src = "photo/4. 거리 계산.JPG" width = "500" height = "500">
+<img src = "photo/4. 거리 계산.JPG" width = "1200" height = "350">
 
 - 기존 아이디어: 건물별로 모든 지하철역, 학교, 대규모 점포들과의 거리를 비교한 결과 소요 시간이 컸음
 
@@ -70,7 +70,7 @@
 
 #### 1.4 건물별 생애 이력 데이터 결합
 
-<img src = "photo/5. 건물별 생애 이력.JPG" width = "500" height = "500">
+<img src = "photo/5. 건물별 생애 이력.JPG" width = "1200" height = "350">
 
 - 건물별 생애 이력 데이터 중 건물 용도, 연면적, 층수, 주차장 개수, 승강기 개수만을 추출
 
@@ -88,7 +88,7 @@
 
 - 도로명 주소를 그룹으로 하여 중복된 도로명주소의 건물들의 컬럼 정보를 평균
 
-<img src = "photo/6. 중복 도로명.JPG" width = "500" height = "500">
+<img src = "photo/6. 중복 도로명.JPG" width = "1200" height = "350">
 
 - 최종 78,835개의 도로명 주소를 모델링에 활용
 
@@ -96,11 +96,11 @@
 
 - 단순선형회귀, 라쏘회귀, 릿지회귀, XGBoost, LightGBM, K-nearest Neighbors 회귀모델을 고려하여 비교
 
-<img src = "photo/7. 모델 비교.JPG" width = "500" height = "500">
+<img src = "photo/7. 모델 비교.JPG" width = "1200" height = "350">
 
 - 가장 높은 성능을 보인 K-nearest Neighbors 회귀모델을 선택해서 학습을 진행하고 예측값을 산출
 
-<img src = "photo/8. KNN.JPG" width = "500" height = "500">
+<img src = "photo/8. KNN.JPG" width = "1200" height = "350">
 
 <h2>:convenience_store: 6. 분석 결과</h2>
 
