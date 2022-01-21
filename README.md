@@ -17,7 +17,7 @@
 - 담당역할: 좌표 추출, 거리 계산 컬럼 도출, 모델링 및 함수 구현, 보고서 제작 (구병모)
 
 - 개발일정
-<img src = "photo/1. 개발 일정.JPG" width = "400" height = "500">
+<img src = "photo/1. 개발 일정.JPG" width = "500" height = "400">
 
 <h2>:convenience_store: 2. 분석 배경</h2>
 
