@@ -18,7 +18,7 @@
 
 - 개발일정
 
-<img src = "photo/1. 개발 일정.JPG" width = "500" height = "400">
+<p align = "center"><img src = "photo/1. 개발 일정.JPG" width = "500" height = "400"></p>
 
 <h2>:convenience_store: 2. 분석 배경</h2>
 
@@ -41,12 +41,12 @@
 
 <h2>:convenience_store: 4. 분석 프로세스</h2>
 
-<img src = "photo/2. 분석 프로세스.JPG" width = "600" height = "500">
+<p align = "center"><img src = "photo/2. 분석 프로세스.JPG" width = "600" height = "500">
 
 <h2>:convenience_store: 5. 분석 내용</h2>
 
 #### 1.1 생애이력 데이터 결합
-<img src = "photo/3. 생애이력 데이터 결합.JPG" width = "500" height = "500">
+<img src = "photo/3. 생애이력 데이터 결합.JPG" width = "500" height = "500"></p>
 
 - 용도별, 기역구별 엑셀 데이터를 결합하여 120009건의 데이터셋 구축
 
