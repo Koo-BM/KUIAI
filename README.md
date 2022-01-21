@@ -24,7 +24,7 @@
 <h2>:convenience_store: 3. 분석 목표</h2>
 
 <h2>:convenience_store: 4. 분석 프로세스</h2>
-
+<img src = "photo/2. 분석 프로세스.JPG" width = "400" height = "500">
 <h2>:convenience_store: 5. 분석 내용</h2>
 
 <h2>:convenience_store: 6. 분석 결과</h2>
