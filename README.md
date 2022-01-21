@@ -18,7 +18,7 @@
 
 - 개발일정
 
-<img src = "photo/1. 개발 일정.JPG" width = "600" height = "400">
+<img src = "photo/1. 개발 일정.JPG" width = "500" height = "400">
 
 <h2>:convenience_store: 2. 분석 배경</h2>
 
@@ -41,7 +41,7 @@
 
 <h2>:convenience_store: 4. 분석 프로세스</h2>
 
-<img src = "photo/2. 분석 프로세스.JPG" width = "500" height = "500">
+<img src = "photo/2. 분석 프로세스.JPG" width = "600" height = "500">
 
 <h2>:convenience_store: 5. 분석 내용</h2>
 
