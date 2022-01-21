@@ -18,7 +18,7 @@
 
 - 개발일정
 
-<img src = "photo/1. 개발 일정.JPG" width = "500" height = "400">
+<img src = "photo/1. 개발 일정.JPG" width = "600" height = "400">
 
 <h2>:convenience_store: 2. 분석 배경</h2>
 
