@@ -41,12 +41,12 @@
 
 <h2>:convenience_store: 4. 분석 프로세스</h2>
 
-<p align = "center"><img src = "photo/2. 분석 프로세스.JPG" width = "600" height = "500">
+<p align = "center"><img src = "photo/2. 분석 프로세스.JPG" width = "600" height = "500"></p>
 
 <h2>:convenience_store: 5. 분석 내용</h2>
 
 #### 1.1 생애이력 데이터 결합
-<img src = "photo/3. 생애이력 데이터 결합.JPG" width = "1200" height = "350"></p>
+<img src = "photo/3. 생애이력 데이터 결합.JPG" width = "1200" height = "350">
 
 - 용도별, 기역구별 엑셀 데이터를 결합하여 120009건의 데이터셋 구축
 
@@ -100,7 +100,7 @@
 
 - 가장 높은 성능을 보인 K-nearest Neighbors 회귀모델을 선택해서 학습을 진행하고 예측값을 산출
 
-<img src = "photo/8. KNN.JPG" width = "1200" height = "350">
+<img src = "photo/8. KNN.JPG" width = "1200" height = "300">
 
 <h2>:convenience_store: 6. 분석 결과</h2>
 
@@ -109,11 +109,11 @@
 
 #### Output: 입지점수, 점수별 히트맵, 건물별 등급 지도
 
-<img src = "photo/9. 함수.JPG" width = "500" height = "500">
+<p align = "center"><img src = "photo/9. 함수.JPG" width = "500" height = "500"></p>
 
-<img src = "photo/10.1. 결과.JPG" width = "500" height = "500">
+<p align = "center"><img src = "photo/10.1. 결과.JPG" width = "500" height = "500"></p>
 
-<img src = "photo/10.2. 결과.JPG" width = "500" height = "500">
+<p align = "center"><img src = "photo/10.2. 결과.JPG" width = "500" height = "500"></p>
 
 - 상권평가지수(상권 내 음식, 서비스 소매 등 전반적인 업종 등을 기타 설비 서비스를 종합하여 산출한 등급)의 보조적 장치로 활용 가능
 
