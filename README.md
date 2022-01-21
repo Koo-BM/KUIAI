@@ -46,7 +46,7 @@
 <h2>:convenience_store: 5. 분석 내용</h2>
 
 #### 1.1 생애이력 데이터 결합
-<img src = "photo/3. 생애이력 데이터 결합.JPG" width = "600" height = "200"></p>
+<img src = "photo/3. 생애이력 데이터 결합.JPG" width = "1200" height = "400"></p>
 
 - 용도별, 기역구별 엑셀 데이터를 결합하여 120009건의 데이터셋 구축
 
