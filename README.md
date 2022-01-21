@@ -96,7 +96,7 @@
 
 - 단순선형회귀, 라쏘회귀, 릿지회귀, XGBoost, LightGBM, K-nearest Neighbors 회귀모델을 고려하여 비교
 
-<img src = "photo/7. 모델 비교.JPG" width = "1200" height = "350">
+<img src = "photo/7. 모델 비교.JPG" width = "1200" height = "300">
 
 - 가장 높은 성능을 보인 K-nearest Neighbors 회귀모델을 선택해서 학습을 진행하고 예측값을 산출
 
