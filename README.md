@@ -100,7 +100,7 @@
 
 - 가장 높은 성능을 보인 K-nearest Neighbors 회귀모델을 선택해서 학습을 진행하고 예측값을 산출
 
-<img src = "photo/8. KNN.JPG" width = "1200" height = "300">
+<img src = "photo/8. KNN.JPG" width = "1200" height = "250">
 
 <h2>:convenience_store: 6. 분석 결과</h2>
 
@@ -109,11 +109,11 @@
 
 #### Output: 입지점수, 점수별 히트맵, 건물별 등급 지도
 
-<p align = "center"><img src = "photo/9. 함수.JPG" width = "500" height = "500"></p>
+<p align = "center"><img src = "photo/9. 함수.JPG" width = "800" height = "500"></p>
 
-<p align = "center"><img src = "photo/10.1. 결과.JPG" width = "500" height = "500"></p>
+<p align = "center"><img src = "photo/10.1. 결과.JPG" width = "800" height = "500"></p>
 
-<p align = "center"><img src = "photo/10.2. 결과.JPG" width = "500" height = "500"></p>
+<p align = "center"><img src = "photo/10.2. 결과.JPG" width = "800" height = "500"></p>
 
 - 상권평가지수(상권 내 음식, 서비스 소매 등 전반적인 업종 등을 기타 설비 서비스를 종합하여 산출한 등급)의 보조적 장치로 활용 가능
 
