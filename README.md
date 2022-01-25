@@ -100,7 +100,7 @@
 
 - 가장 높은 성능을 보인 K-nearest Neighbors 회귀모델을 선택해서 학습을 진행하고 예측값을 산출
 
-<img src = "photo/8. KNN.JPG" width = "1200" height = "220">
+<img src = "photo/8. KNN.JPG" width = "1200" height = "180">
 
 <h2>:convenience_store: 6. 분석 결과</h2>
 
