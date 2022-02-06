@@ -41,7 +41,7 @@
 
 <h2>:convenience_store: 4. 분석 프로세스</h2>
 
-<p align = "center"><img src = "photo/2. 분석 프로세스.JPG" width = "600" height = "570"></p>
+<p align = "center"><img src = "photo/2. 분석 프로세스.JPG" width = "600" height = "560"></p>
 
 <h2>:convenience_store: 5. 분석 내용</h2>
 
